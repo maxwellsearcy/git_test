@@ -2,4 +2,4 @@
 
 Hello Odin!
 
-this is text I'm also adding to complete the assignment in Odin
+this is text I'm adding to complete the assignment in Odin
